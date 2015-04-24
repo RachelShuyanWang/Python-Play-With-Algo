@@ -1,2 +1,2 @@
 # Python-Play-With-Algo
-Also problems like latched that I play with
+Algo problems like leetcode OJ that I play with
